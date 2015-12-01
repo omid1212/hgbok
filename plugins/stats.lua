@@ -3,8 +3,8 @@
 
 do
 
-local NUM_MSG_MAX = 5
-local TIME_CHECK = 4 -- seconds
+local NUM_MSG_MAX = 2
+local TIME_CHECK = 3 -- seconds
 
 local function user_print_name(user)
   if user.print_name then
