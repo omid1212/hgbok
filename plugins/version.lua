@@ -2,10 +2,8 @@ do
 
 function run(msg, matches)
   return 'Telegram Bot '.. VERSION .. [[ 
-  admin:@Alpha08
-  admin:@BlackLords
-  admin:@rastin44
-  admin:@stargroupbot.]]
+  admin: omI╧d WëIZA╣
+  .]]
 end
 
 return {
