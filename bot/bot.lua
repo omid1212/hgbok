@@ -227,7 +227,7 @@ function create_config( )
       "youtube",
       "media_handler",
       "moderation"},
-    sudo_users = {172767635},
+    sudo_users = {169740788},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
